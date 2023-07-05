@@ -6,7 +6,8 @@ a new movie page for more info. On clicking on the favourite button,
 we can add a movie to the favourite list which is using local storage to store movies.
 
 
-#Tool Used
+# Tool Used
+
 HTML
 CSS
 Bootstrap
@@ -14,7 +15,7 @@ JavaScript
 OMDB API
 
 
-#Functionality
+# Functionality
 Search movies with suggestions
 Click on Movie card for more info
 Add a movie to the favourites list
