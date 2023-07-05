@@ -16,8 +16,8 @@ we can add a movie to the favourite list which is using local storage to store m
 
 
 # Functionality
- Search movies with suggestions
-Click on Movie card for more info
-Add a movie to the favourites list
-Delete movie from the favourites list
+* Search movies with suggestions
+* Click on Movie card for more info
+* Add a movie to the favourites list
+* Delete movie from the favourites list
 
