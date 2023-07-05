@@ -8,11 +8,11 @@ we can add a movie to the favourite list which is using local storage to store m
 
 # Tool Used
 
- Markup : * HTML
-          * CSS
-          * BootStrap
-          * OMDB API
-          * JavaScript
+* HTML
+* CSS
+* BootStrap
+* OMDB API
+* JavaScript
 
 
 # Functionality
