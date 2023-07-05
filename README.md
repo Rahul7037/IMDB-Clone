@@ -8,15 +8,15 @@ we can add a movie to the favourite list which is using local storage to store m
 
 # Tool Used
 
-HTML
-CSS
-Bootstrap
-JavaScript
-OMDB API
+ Markup : * HTML
+          * CSS
+          * BootStrap
+          * OMDB API
+          * JavaScript
 
 
 # Functionality
-Search movies with suggestions
+ Search movies with suggestions
 Click on Movie card for more info
 Add a movie to the favourites list
 Delete movie from the favourites list
